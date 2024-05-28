@@ -83,6 +83,8 @@ body {
 .game {
   display: flex;
   flex-direction: row;
+  justify-content: center;
+  margin-top: 200px;
 }
 
 .game-info {
